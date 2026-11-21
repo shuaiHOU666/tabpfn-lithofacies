@@ -1,0 +1,12 @@
+features,model,accuracy,macro_f1
+common3,MLP (original logs),0.6843,0.3703
+common3,RF (original logs),0.5025,0.3744
+common3,SVM (original logs),0.5455,0.4478
+common3,TabPFN (fine-tuned on Hugoton),0.5639,0.364
+common3,TabPFN (pretrained),0.5663,0.3728
+common3,XGBoost (original logs),0.4767,0.3439
+scan4,MLP (original logs),0.6818,0.4053
+scan4,RF (original logs),0.5848,0.3757
+scan4,SVM (original logs),0.5307,0.4164
+scan4,TabPFN (pretrained),0.6143,0.3716
+scan4,XGBoost (original logs),0.5688,0.3628

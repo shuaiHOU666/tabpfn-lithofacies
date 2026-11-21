@@ -1,0 +1,15 @@
+# tested with Python 3.11-3.13; versions are those used for the paper
+tabpfn==9.2.0          # TabPFN v2 weights; fine-tuning API (tabpfn.finetuning)
+torch>=2.3
+scikit-learn>=1.5
+xgboost>=2.0
+shap>=0.45
+pandas>=2.2
+numpy>=1.26
+scipy>=1.12
+matplotlib>=3.8
+lasio>=0.31            # SCAN LAS files (scan_dataset.py)
+# core-log digitisation only (core_labels.py); also needs the Tesseract OCR program
+pymupdf>=1.24
+pytesseract>=0.3
+opencv-python>=4.9

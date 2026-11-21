@@ -1,0 +1,13 @@
+WELL,run,core_top,core_base,shift_m,shift_source,samples,status,core_m
+BHG-01,1.0,2168.01,2182.44,-2.59,core_data DS,82.0,,
+BHG-01,2.0,2375.0,2386.98,-10.59,core_data DS,78.0,,
+HEU-01,,,,,,,no LAS found,39.8
+KSL-02,1.0,333.0,388.0,0.0,none - check!,332.0,,
+KTG-01,1.0,945.8,996.77,0.0,none - check!,329.0,,
+LTG-01,,,,,,,no LAS found,5.3
+O18-01,1.0,1600.2,1614.83,0.0,manual,91.0,,
+O18-01,2.0,2064.72,2075.97,0.0,none - check!,64.0,,
+O18-01,3.0,2612.44,2639.56,0.0,none - check!,177.0,,
+S02-02,,,,,,,no LAS found,12.2
+UHM-02,,,,,,,no LAS found,6.8
+WSK-01,,,,,,,no LAS found,7.6

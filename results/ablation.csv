@@ -1,0 +1,7 @@
+classifier,configuration,n_features,train_accuracy,blind_accuracy,blind_macro_f1
+SVM,Original features only,7,0.7225826382452889,0.4473684210526316,0.42873417687369025
+SVM,TabPFN embeddings only,192,0.742354031510658,0.47149122807017546,0.3985296310846138
+SVM,"Original + embeddings, vanilla extraction",199,1.0,0.23684210526315788,0.1287275530009476
+SVM,"Original + embeddings, out-of-fold by random rows",199,0.7905468025949953,0.43640350877192985,0.3817847612818728
+SVM,"Original + embeddings, out-of-fold by well",199,0.7633611368551128,0.5054824561403509,0.4454751482806544
+SVM,"Original + embeddings, SHAP-RFE selected",35,0.7976521470497374,0.4769736842105263,0.41533292078616835

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.ckpt
+*.pt
+ckpt_*/
+# raw NLOG downloads (not redistributed, see data/README.md)
+data/las/
+data/SCAN*/
+data/*.zip
+data/reports/
+data/fmi/
+data/petrophysics/
+data/temperature/
+data/logs_digitised/

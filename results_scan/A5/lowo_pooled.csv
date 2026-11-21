@@ -1,0 +1,10 @@
+model,set,accuracy,macro_f1
+MLP,Raw,0.6474,0.367
+MLP,Raw+TabPFN,0.5172,0.2693
+RF,Raw,0.5799,0.3401
+RF,Raw+TabPFN,0.3722,0.1469
+SVM,Raw,0.5602,0.3643
+SVM,Raw+TabPFN,0.2482,0.1964
+TabPFN classifier,Raw,0.6413,0.3714
+XGBoost,Raw,0.6106,0.3425
+XGBoost,Raw+TabPFN,0.4287,0.1587
